@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.question{
+    width: 500PX;
+    background: #ffc0cb;
+    padding: 20px;
+    border: 1px solid;
+    margin: auto;
+    /* position: absolute; */
+    /* text-align: center; */
+    /* display: flex; */
+    /* justify-content: center; */
+    /* justify-items: center; */
+
+}
